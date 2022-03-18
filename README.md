@@ -1,9 +1,10 @@
-# Conversor de Temperatura 🌡️
-## Conversor de Celsius (C°) para Fahrenheit (F°). 🔛
+<h1 align="center"> Conversor de Temperatura 🌡️</h1>
+<h2 align="center">Conversor de Celsius (C°) para Fahrenheit (F°). 🔛</h2>
+<p align="center">
 <a href="https://www.instagram.com/welton.araujo2014/"><img src="https://img.shields.io/static/v1?color=blue&label=Instagram&logo=Instagram&logoColor=black&style=for-the-badge&message=Seguir"></a>
 <a href="https://www.linkedin.com/in/welton-rodrigues-frontend/"><img src="https://img.shields.io/static/v1?color=blue&label=Linkedin&logo=Linkedin&logoColor=black&style=for-the-badge&message=Conectar"></a>
 <a href="https://twitter.com/WeltonDev95"><img src="https://img.shields.io/static/v1?color=blue&label=Twitter&logo=Twitter&logoColor=black&style=for-the-badge&message=Seguir"></a>
-</div>
+</p>
 
 ![banner](https://github.com/WeltonDev/conversor-temperatura/blob/main/conversorTemperaturaBanner.png)
 
